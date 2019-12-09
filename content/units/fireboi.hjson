@@ -6,11 +6,11 @@ speed: 0.5
 flying: true
 health: 110
 engineOffset: 5.5
-range: 100
+range: 160
 weapon: {
   name: chrome-blaster
   length: 2.5
-  reload: 1
+  reload: .001
   alternate: true
   bullet: basicFlame
 }
