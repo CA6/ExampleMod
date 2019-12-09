@@ -12,5 +12,5 @@ weapon: {
   length: 2.5
   reload: .001
   alternate: true
-  bullet: basicFlame
+  bullet: fireball
 }
