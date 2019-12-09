@@ -4,6 +4,6 @@ description: Imagine death to all.
 temperature: 0.4
 flammability:99999999999999999
 explosiveness: 10000000000
-viscosity: 10.
+viscosity: 1.
 effect: tarred
 color: 45f6a9
