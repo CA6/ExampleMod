@@ -11,5 +11,5 @@ weapon: {
   length: 1.5
   reload: 10
   alternate: true
-  bullet: oilshot
+  bullet: oilShot
 }
