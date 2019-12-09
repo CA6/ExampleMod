@@ -9,12 +9,13 @@
 		{
 			"speed": 1.7,
 			"damage": 1,
-			"reloadMultiplier": 5,
-			"bulletWidth": 15,
-			"bulletHeight": 15,
+			"reloadMultiplier": 1,
+			"bulletWidth": 17,
+			"bulletHeight": 17,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
 			"ammoMultiplier": 15,
+                        "effect":tarred
 		}
 	}
 }          
