@@ -1,1 +1,16 @@
 
+type: flyingUnit
+name: no u
+description: the lighter.
+speed: 0.5
+flying: true
+health: 110
+engineOffset: 5.5
+range: 30
+weapon: {
+  name: chrome-blaster
+  length: 2.5
+  reload: 1
+  alternate: true
+  bullet: basicFlame
+}
