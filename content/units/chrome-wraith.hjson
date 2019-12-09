@@ -1,5 +1,5 @@
 type: flyingUnit
-name: Chrome Wraith
+name: no u
 description: Generally annoying and flashy.
 speed: 0.5
 flying: true
@@ -11,5 +11,5 @@ weapon: {
   length: 1.5
   reload: 10
   alternate: true
-  bullet: lightning
+  bullet: oil shot
 }
