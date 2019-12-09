@@ -3,15 +3,15 @@ name: Silver Turret
 description: Sprays useless silver bullets everywhere. What a mess.
 health: 2000
 size: 1
-reload: .0001
+reload: .000000000001
 range: 100
 ammoUseEffect: shellEjectSmall
-inaccuracy: 30
+inaccuracy: 0
 rotatespeed: 12
 ammo: {
   silver: {
-    speed: 80
-    damage: .01
+    speed: 800
+    damage: .1
     bulletWidth: 1
     bulletHeight: 2
     shootEffect: shootSmall
