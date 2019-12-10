@@ -1,14 +1,14 @@
 type: GroundUnit
 name: no 
 description: Generally annoying and flashy.
-speed: 1.
+speed: .15
 flying: false
 health: 500
-range: 160
+range: 260
 weapon: {
   name: boom
   length: 1.5
-  reload: 5
+  reload: 20
   alternate: true
   bullet: artilleryExplosive
 }
