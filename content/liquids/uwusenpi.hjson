@@ -2,8 +2,8 @@
 name: uwuboom
 description: Imagine death to all.
 temperature: 0.4
-flammability:99999999999999999
-explosiveness: 10000000000
-viscosity: 1.
+flammability:9999999
+explosiveness:9999999
+viscosity: .99
 effect: tarred
 color: 45f6a9
