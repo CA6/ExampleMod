@@ -21,7 +21,7 @@ ammo: {
   boomdust: {
     speed: 800
     damage: .5
-    reloadmulitplyer:17
+    reloadMultiplier:17
     bulletWidth: 18
     bulletHeight: 19
     shootEffect: shootSmall
