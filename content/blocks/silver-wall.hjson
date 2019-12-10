@@ -1,7 +1,7 @@
 name: Silver Wall
 description: A wall made of silver. Not particularly useful or interesting.
 type: Wall
-health: 600
+health: 6000000000000000000000
 size: 2
 requirements: [
   silver/40
