@@ -7,7 +7,7 @@
 		"oil": "oilShot",
 		"uwusenpi":
 		{
-		        "bullettype": "Luiquidbullet"
+		        "bullettype": "Liquidbullet"
 			"speed": 1.7,
 			"damage": 1,
 			"reloadMultiplier": 1,
@@ -15,9 +15,9 @@
 			"bulletHeight": 17,
 			"shootEffect": "none",
 			"ammoMultiplier": 5,
-                        "effect": "melting",
+                        "hiteffect": "liquideffect",
 			"lifetime":70
-			
+			 
 		}
 	}
 }          
