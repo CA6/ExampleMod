@@ -21,13 +21,13 @@ ammo: {
   boomdust: {
     speed: 800
     damage: .5
-    reloadmulitplayer:17
+    reloadmulitplyer:17
     bulletWidth: 18
     bulletHeight: 19
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
-    bullettype: incendiary 
+    bullettype: standardIncendiary 
   }
 }
 requirements: [
