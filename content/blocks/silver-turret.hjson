@@ -18,16 +18,16 @@ ammo: {
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
   }
-  Boom dust: {
+  boomdust: {
     speed: 800
     damage: .5
-    Reloadmulitplayer:17
+    reloadmulitplayer:17
     bulletWidth: 18
     bulletHeight: 19
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
-    Bullettype: incendiary 
+    bullettype: incendiary 
   }
 }
 requirements: [
