@@ -13,9 +13,8 @@
 			"bulletWidth": 17,
 			"bulletHeight": 17,
 			"shootEffect": "none",
-			"knockback": .70,
 			"ammoMultiplier": 5,
-                        "effect": "melting"
+                        "effect": "melting",
 			"lifetime":70
 			
 		}
