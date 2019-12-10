@@ -7,8 +7,9 @@
 		"oil": "oilShot",
 		"uwusenpi":
 		{
-		        "bullettype": "Liquidbullet"
-			"speed": 1.7,
+		        "type": "LiquidBulletType"
+                        "liquid": "uwusenpi"
+                        "speed": 1.7,
 			"damage": 1,
 			"reloadMultiplier": 1,
 			"bulletWidth": 17,
