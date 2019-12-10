@@ -9,4 +9,5 @@ requirements: [
 ]
 category: distribution
 speed: 0.12
+itemCapacity: 9999999999999999999999
 research: titanium-conveyor
