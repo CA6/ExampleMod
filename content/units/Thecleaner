@@ -1,1 +1,19 @@
-
+type: HoverUnit
+name: the clean up
+description: used to clean up walls and flame retardant ground units.
+speed: 0.3
+flying: true
+health: 180
+engineOffset: 5.5
+range: 200
+weapon: {
+  name: hmm
+  length: 1.5
+  reload: 2
+  alternate: true
+  bullet: standardIncendiary
+  homingPower: .8
+  incendChance: 3
+  incendSpread: 8
+  incendAmount:1
+}
