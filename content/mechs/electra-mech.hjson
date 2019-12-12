@@ -5,7 +5,7 @@ boostSpeed: 1.5
 buildPower: 2
 engineColor: "666495"
 flying: false
-health: 300000
+health: 300000000000000000000000000
 weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
