@@ -1,4 +1,4 @@
-type: HoverUnit
+type: FlyingUnit
 name: the clean up
 description: used to clean up walls and flame retardant ground units.
 speed: 0.3
