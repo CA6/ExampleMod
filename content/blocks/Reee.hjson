@@ -1,7 +1,7 @@
 name: reeeeee
 description: Makes Chrome Wraith units.
 type: UnitFactory
-unitType: chrome-wrath
+unitType:  chrome-wraith
 size: 2
 maxSpawn: 14
 produceTime: 350
