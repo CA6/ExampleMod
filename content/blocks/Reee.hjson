@@ -1,9 +1,9 @@
 name: reeeeee
-description: reeeëèęěəėēèéěee.
+description: reeeëèęěēèéěee.
 type: UnitFactory
 unitType: Thecleaner
 size: 2
-maxSpawn: 14
+maxSpawn: 5
 produceTime: 350
 consumes: {
   power: 0.5
