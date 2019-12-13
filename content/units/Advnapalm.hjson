@@ -15,7 +15,7 @@ weapon: {
   bullet: {
         "type": "LiquidBulletType"
         "liquid": "uwusenpi",
-        "lifetime": 40,
+        "lifetime": 20,
         "speed": 60,
         }
 }
