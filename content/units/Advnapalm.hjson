@@ -1,1 +1,21 @@
 
+type: flyingUnit
+name: no u
+description: Generally annoying and flashy.
+speed: 0.5
+flying: true
+health: 100
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: chrome-blaster
+  length: 1.5
+  reload: 10
+  alternate: true
+  bullet: {
+        "type": "LiquidBulletType"
+        "liquid": "uwusenpi",
+        "lifetime": 3,
+        "speed": 5,
+        }
+}
