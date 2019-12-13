@@ -11,7 +11,7 @@ weapon: {
   length: 1.5
   reload: 5
   alternate: true
-  bullet: standardhoming
+  bullet: standardHoming
   homingPower: .8
   
 }
