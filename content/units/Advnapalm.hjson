@@ -1,6 +1,6 @@
 
 type: flyingUnit
-name: no u
+name: naplam fighter 
 description: Generally annoying and flashy.
 speed: 0.5
 flying: true
