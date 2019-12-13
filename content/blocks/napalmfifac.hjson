@@ -1,4 +1,5 @@
-name: fek.
+name: nff
+dicripion: makes advanced oil fighter better know as napalm bombers
 type: UnitFactory
 unitType: Advnapalm
 size: 2
