@@ -1,6 +1,6 @@
 name: fek.
 type: UnitFactory
-unitType: 
+unitType: Advnapalm
 size: 2
 maxSpawn: 4
 produceTime: 350
