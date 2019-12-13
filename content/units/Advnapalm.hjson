@@ -10,12 +10,12 @@ range: 160
 weapon: {
   name: chrome-blaster
   length: 1.5
-  reload: 10
+  reload: .5
   alternate: true
   bullet: {
         "type": "LiquidBulletType"
         "liquid": "uwusenpi",
-        "lifetime": 3,
-        "speed": 5,
+        "lifetime": 40,
+        "speed": 60,
         }
 }
