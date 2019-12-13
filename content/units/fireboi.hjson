@@ -6,7 +6,7 @@ speed: 0.5
 flying: true
 health: 110
 engineOffset: 5.5
-range: 160
+range: 200
 weapon: {
   name: chrome-blaster
   length: 2.5
