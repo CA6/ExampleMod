@@ -10,7 +10,7 @@ range: 160
 weapon: {
   name: chrome-blaster
   length: 2.5
-  reload: .001
+  reload: .01
   alternate: true
-  bullet: fireball
+  bullet: eruptorShot
 }
