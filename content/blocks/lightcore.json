@@ -1,0 +1,14 @@
+{
+	"name": "Light Core",
+	"description": "A core made of light.",
+	"type": "CoreBlock",
+	"itemCapacity": 1000000,
+	"hasItems": true,
+	"health": 50000,
+	"size": 5,
+	"requirements": [
+		{ "item": "lightcube", "amount": 20 },
+		{ "item": "copper", "amount": 20 }
+	],
+	"category": "effect"
+}

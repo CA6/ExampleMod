@@ -1,0 +1,16 @@
+{
+    "type": "MechPad",
+    "mech": "eradicator",
+    "name": "Eradicator Fighter Ship Pad",
+    "description": "Transform into a heavy death delivery device",
+    "size": 3,
+    "produceTime": 500,
+    "requirements": [
+        { "item": "lightcube" }
+    ],
+    "consumes": {
+         "power": 5.0,
+    },
+    "category": "upgrade",
+    "research": "lightturret"
+}

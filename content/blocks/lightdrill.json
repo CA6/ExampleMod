@@ -1,0 +1,18 @@
+{
+	"name": "Light Drill",
+	"description": "A very strange drill.",
+	"type": "Drill",
+	"size": 2,
+	"tier": 5000,
+	"drillTime": 50,
+	"consumes": {
+            "power": 0.1
+	    },
+	"requirements": [
+		{ "item": "lightcube", "amount": 80 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "lightpackager"
+}

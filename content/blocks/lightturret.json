@@ -1,0 +1,29 @@
+{
+	"type": "DoubleTurret",
+	"name": "Light Bombardier",
+	"description": "Bombards everything with photons similar to your phone screen.",
+	"health": 2000,
+	"size": 1,
+	"reload": 0,
+	"range": 125,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 0,
+	"rotatespeed": 20,
+	"ammo": {
+		"lightcube": {
+			"speed": 5.0,
+			"damage": 25,
+			"bulletWidth": 5,
+			"bulletHeight": 10,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 10
+		}
+	},
+	"requirements": [
+		{ "item": "lightcube", "amount": 40 },
+		{ "item": "copper", "amount": 70 }
+	],
+	"category": "turret",
+	"research": "lightwall"
+}

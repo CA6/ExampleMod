@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "NOOM NOOM",
+	"description": "lightspeed conveyor but way faster",
+	"requirements": [
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "lightcube", "amount": 10}
+	],
+	"category": "distribution",
+	"speed": 10,
+	"research": "light-conveyor"
+}
